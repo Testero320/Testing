@@ -1,0 +1,5 @@
+C:\Users\Pendo\DANE\Korepetycje\Kuba Sawkicki\Zajęcia 22-23\projekt_kostki\Baza_kostek\Baza_kostek\obj\Debug\net5.0\Baza_kostek.csproj.AssemblyReference.cache
+C:\Users\Pendo\DANE\Korepetycje\Kuba Sawkicki\Zajęcia 22-23\projekt_kostki\Baza_kostek\Baza_kostek\obj\Debug\net5.0\Baza_kostek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pendo\DANE\Korepetycje\Kuba Sawkicki\Zajęcia 22-23\projekt_kostki\Baza_kostek\Baza_kostek\obj\Debug\net5.0\Baza_kostek.AssemblyInfoInputs.cache
+C:\Users\Pendo\DANE\Korepetycje\Kuba Sawkicki\Zajęcia 22-23\projekt_kostki\Baza_kostek\Baza_kostek\obj\Debug\net5.0\Baza_kostek.AssemblyInfo.cs
+C:\Users\Pendo\DANE\Korepetycje\Kuba Sawkicki\Zajęcia 22-23\projekt_kostki\Baza_kostek\Baza_kostek\obj\Debug\net5.0\Baza_kostek.csproj.CoreCompileInputs.cache
