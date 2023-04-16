@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Pendo\\DANE\\Korepetycje\\Kuba Sawkicki\\Zajęcia 22-23\\projekt_kostki\\Baza_kostek\\Baza_kostek\\Baza_kostek.csproj": {}
+    "C:\\Users\\Pendo\\Desktop\\inny\\Baza_kostek\\Baza_kostek.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Pendo\\DANE\\Korepetycje\\Kuba Sawkicki\\Zajęcia 22-23\\projekt_kostki\\Baza_kostek\\Baza_kostek\\Baza_kostek.csproj": {
+    "C:\\Users\\Pendo\\Desktop\\inny\\Baza_kostek\\Baza_kostek.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Pendo\\DANE\\Korepetycje\\Kuba Sawkicki\\Zajęcia 22-23\\projekt_kostki\\Baza_kostek\\Baza_kostek\\Baza_kostek.csproj",
+        "projectUniqueName": "C:\\Users\\Pendo\\Desktop\\inny\\Baza_kostek\\Baza_kostek.csproj",
         "projectName": "Baza_kostek",
-        "projectPath": "C:\\Users\\Pendo\\DANE\\Korepetycje\\Kuba Sawkicki\\Zajęcia 22-23\\projekt_kostki\\Baza_kostek\\Baza_kostek\\Baza_kostek.csproj",
+        "projectPath": "C:\\Users\\Pendo\\Desktop\\inny\\Baza_kostek\\Baza_kostek.csproj",
         "packagesPath": "C:\\Users\\Pendo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Pendo\\DANE\\Korepetycje\\Kuba Sawkicki\\Zajęcia 22-23\\projekt_kostki\\Baza_kostek\\Baza_kostek\\obj\\",
+        "outputPath": "C:\\Users\\Pendo\\Desktop\\inny\\Baza_kostek\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
