@@ -13,7 +13,7 @@ namespace Baza_kostek
         string nazwa;
         List<float> czasy_ulozen = new List<float>();
         string dataDodania;
-
+        string wazneInfo;
 
         public string Nazwa
         {
